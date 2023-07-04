@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>나만의 지도</title>
+    <style>
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=9cdf0f4444a4ab893136cc6b06f300f7&libraries=services"></script>
+    <script>
+        // 여기에 JavaScript 코드를 작성하여 지도를 생성하고 설정합니다.
+    </script>
+</body>
+</html>
